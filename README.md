@@ -30,7 +30,7 @@ This project was created to practise web development, improve my CSS and Javascr
 
 🚀 How to Use
 
-1. Open "demo link" in a web browser.
+1. Open https://comfy-pudding-fc8ae5.netlify.app in a web browser.
 2. Enter a number.
 3. Choose a mathematical operator.
 4. Enter the second number.
